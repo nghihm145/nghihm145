@@ -2,7 +2,7 @@
 - 👀 I’m interested in watching netflix
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java eco-system developer, frontend, designer, BA,...
-- 📫 How to reach me: mannghi25@gmail.com
+- 📫 How to reach me: nghihangman@gmail.com
 - ⚡ Fun fact: I've got a lot of piercing 😝
 
 <!---
